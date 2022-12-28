@@ -1,0 +1,9 @@
+*{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url(/images/fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
